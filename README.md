@@ -1,5 +1,6 @@
 # 📒 Blockchain-Based Attendance System 🎓⛓️
 <br><br>A secure, transparent, and tamper-proof attendance management system built on **blockchain technology**. This project leverages **Ethereum Smart Contracts**, **MetaMask**, and **Hardhat** to ensure a decentralized and trustworthy solution for tracking student attendance. 👨‍🎓👩‍🏫<br><br><br><br>🚀 Features<br><br>- 🔐 Student & Faculty Login System — Secure login for students and faculty.<br>- 📅 Mark Attendance — Faculty can mark attendance for each session.<br>- 📊 View Attendance History — Students can view their personal attendance records.<br>- 🧾 Immutable Records— Once marked, attendance cannot be modified (thanks to blockchain 🛡️).<br>- 🧠 Smart Contract Backend — All logic is handled through Ethereum smart contracts.<br>- 💼 MetaMask Integration — Users connect and interact with the blockchain using MetaMask.<br>- 📜 Decentralized Ledger — Transparent logs accessible to all stakeholders.<br>- ⚙️ Admin Dashboard — View and manage system data securely.<br>
+QR Code Attendance — Faculty displays a unique QR code that students scan to mark attendance securely and instantly via the blockchain.<br>
 
 
 ## 🌐 Socials:
